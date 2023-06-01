@@ -50,3 +50,9 @@ WTFPL.
 
 ## Bugs
 use git issue. 
+
+## Disclaimer
+If this bricks your fucking device, I don't take any responsibility.   
+That is YOUR problem.  
+I mean, I hacked together that backdoored firmware in an evening.  
+Also, why aren't you following the writeup and building your own backdoored firmware?  
