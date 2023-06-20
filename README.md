@@ -3,6 +3,8 @@ Minimum Viable PoC for CVE-2023-20126
 
 This is the initial release. It works, but its the 'simplest case' exploit.
 
+Tested and working on SPA112/SPA122 - SPA232D requires a different firmware image. 
+
 Gives a root-shell on port 23000/tcp.
 
 I still need to clean up the toolchain used for editing the firmware and will probably put that in a different repo. It is mostly based on the work of @BigNerd95, but with minor alterations to work on the SPA112/122 firmware files.
