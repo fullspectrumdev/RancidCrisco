@@ -9,6 +9,8 @@ Gives a root-shell on port 23000/tcp.
 
 I still need to clean up the toolchain used for editing the firmware and will probably put that in a different repo. It is mostly based on the work of @BigNerd95, but with minor alterations to work on the SPA112/122 firmware files.
 
+Note: you need to use the LAN Ethernet interface for accessing the root shell
+
 ## Demo.
 
 ```
